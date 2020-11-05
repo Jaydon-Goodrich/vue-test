@@ -1,4 +1,7 @@
-# test
+# test.
+
+## about
+This is a simple todo app that was created using the VueJS framework. This app was built for the intention of learning and applying different concepts of vue.
 
 ## Project setup
 ```
